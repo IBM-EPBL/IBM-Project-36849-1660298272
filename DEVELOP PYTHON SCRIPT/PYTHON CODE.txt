@@ -2,10 +2,6 @@ import ibmiotf.application import ibmiotf.device import time import random impor
 from twilio.rest import Client import keys
 Client = Client(keys.account_sid, keys.auth_token)
 
-organization = "lwkiec"
-deviceType = "Microcontroller_Device_1" deviceId = "00002" authMethod = "token" authToken = "sushi@123"
-
-
 pH = random.randint(1, 14) turbidity = random.randint(1, 1000) temperature
 = random.randint(0, 100)
 
