@@ -1,0 +1,3 @@
+In this sprint 2, We have created the block diagram and circuit diagram of our project. 
+We also uploaded entire python code of our project.
+It also contains screenshot of the output values thats generated in the pycharm output console directly getting published to the IBM IOT Watson Platform.
