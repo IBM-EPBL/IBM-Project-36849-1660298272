@@ -1,0 +1,3 @@
+In this sprint,we have deployed working of the MIT app.
+The MIT app displays the values of parameters like temperature,humidity,pH.
+From these values we can determine the river water quality.
